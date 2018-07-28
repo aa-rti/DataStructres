@@ -28,4 +28,5 @@ Graphs - Connections/relations in social networking sites, Routing ,networks of 
 
 Heap - Dynamic memory allocation in lisp
 
-https://i.stack.imgur.com/EmzXy.gif
+![alt text](https://i.stack.imgur.com/EmzXy.gif)
+
