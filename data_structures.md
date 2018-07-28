@@ -27,3 +27,5 @@ BSP tree - 3D computer graphics
 Graphs - Connections/relations in social networking sites, Routing ,networks of communication, data organization etc.
 
 Heap - Dynamic memory allocation in lisp
+
+https://i.stack.imgur.com/EmzXy.gif
