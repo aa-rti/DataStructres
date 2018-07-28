@@ -28,5 +28,8 @@ Graphs - Connections/relations in social networking sites, Routing ,networks of 
 
 Heap - Dynamic memory allocation in lisp
 
+# Guide to Selecting Appropriate Map/Collection in Java
+
+http://www.sergiy.ca/guide-to-selecting-appropriate-map-collection-in-java/
 ![alt text](https://i.stack.imgur.com/EmzXy.gif)
 
