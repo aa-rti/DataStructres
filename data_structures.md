@@ -2,6 +2,9 @@
 
 http://www.columbia.edu/~jxz2101/
 
+https://xlinux.nist.gov/dads//
+
+Notes:
 Hash Table - used for fast data lookup - symbol table for compilers, database indexing, caches,Unique data representation.
 
 Trie - dictionary, such as one found on a mobile telephone for autocompletion and spell-checking.
